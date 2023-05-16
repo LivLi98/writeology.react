@@ -8,6 +8,7 @@ const Writing = () => {
             height: "10cm",
             color: "white",
             justifyContent:"end",
+            marginTop: "1cm"
            
         }
     }
